@@ -6,8 +6,9 @@
 Hüperteksti edastusprotokoll ehk HTTP kasutatakse veebilehtede laadimiseks hüpertekstiliste linkide abil.
 Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamiseks veebiserveri ja brauseri vahel.
   </p>
-  
 </html>
+
+<br>
 
 <h3>Mis on http ja https'i vahe?<h3>
 <table>
@@ -32,6 +33,8 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
   </tr>
 </table>
 
+<br>
+
 <html>
   <body>
     <div class="wrapper">
@@ -39,6 +42,7 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
       <img src="https://blogs.getcertifiedgetahead.com/wp-content/uploads/2011/11/HTTPS.png" alt="HTTPS päringud">
     </div>
   </body>
+  <br>
   <h3>Lisa info teemade kohta:</h3>
     <ul>
       <li>
@@ -49,6 +53,8 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
       </li>
     </ul>
 </html>
+
+<br>
 
 <html>
   <body>
