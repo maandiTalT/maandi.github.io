@@ -40,8 +40,20 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
     </div>
   </body>
   <h3>Lisa info teemade kohta:</h3>
-  <a href="What is HTTP?">https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/#:~:text=The%20Hypertext%20Transfer%20Protocol%20(HTTP,of%20the%20network%20protocol%20stack.</a>
+    <ul>
+      <li>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview">What is HTTP?</a>
+      </li>
+      <li>
+        <a href="https://www.techtarget.com/searchsoftwarequality/definition/HTTPS">What is HTTPS?</a>
+      </li>
+    </ul>
 </html>
+
+<html>
+  <body>
     <footer>
       <i>matriklinumber: 235256TAF</i>
     </footer>
+  </body>
+</html>
