@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <h1>HTTP & HTTPs</h1>
+    <h1>HTTP & HTTPS</h1>
   </head>
   <p>
 Hüperteksti edastusprotokoll ehk HTTP kasutatakse veebilehtede laadimiseks hüpertekstiliste linkide abil.
