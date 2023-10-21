@@ -1,16 +1,16 @@
 <html>
-  <header>Yo is me mfff</header>
   <head>
-    <h1>Coolest website ever</h1>
+    <h1>HTTPS & HTML</h1>
   </head>
   <body>
-<legend> what's up </legend>
+HyperText Markup Language ehk HTML on skriptimiskeel, mida veebibrauserid kasutavad maailma laiemas veebis lehtede kuvamiseks.
+Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamiseks veebiserveri ja veebibrauseri vahel.
   </body>
 </html>
-<form>
-  <fieldset>
-    <legend> 
-      What even is this...
-    </legend>
-  </fieldset>
-</form>
+
+
+<html dir="rtl">
+  <footer>
+    <i>matriklinumber: 235256TAF</i>
+  </footer>
+</html>
