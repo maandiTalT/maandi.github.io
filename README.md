@@ -32,9 +32,9 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
   </tr>
 </table>
 
-
-
 <html>
+  <h2>Kuidas HTTPS päringud töötavad?</h2>
+  <img
   <footer>
     <i>matriklinumber: 235256TAF</i>
   </footer>
