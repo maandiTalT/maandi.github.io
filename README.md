@@ -9,7 +9,7 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
 </html>
 
 
-<html dir="rtl">
+<html>
   <footer>
     <i>matriklinumber: 235256TAF</i>
   </footer>
