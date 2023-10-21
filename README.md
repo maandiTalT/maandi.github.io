@@ -34,7 +34,7 @@ Hypertext Transfer Protocol Secure ehk HTTPS on turvaline viis andmete edastamis
 
 <html>
   <h2>Kuidas HTTPS päringud töötavad?</h2>
-  <img
+  <img src="![pilt](https://github.com/maandiTalT/maandi.github.io/assets/146364011/4ddd1fcf-aecd-4773-8f8f-ea73caf87901)" width="140" height="124" alt="HTTPS päringud">
   <footer>
     <i>matriklinumber: 235256TAF</i>
   </footer>
